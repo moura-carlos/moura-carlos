@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo</h1>
 <h3 align="center">I am passionate developer from Brazil :brazil:!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moura-carlos&label=Profile%20views&color=0e75b6&style=flat" alt="moura-carlos" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=moura-carlos&label=Profile%20views&color=0e75b6&style=flat" alt="moura-carlos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moura-carlos" alt="moura-carlos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moura-carlos" alt="moura-carlos" /></a> </p>-->
 
 - 📫 How to reach me **carloseduardo.adm26@gmail.com**
 <p align="left">
